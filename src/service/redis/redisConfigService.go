@@ -1,7 +1,7 @@
 package redis
 
 import (
-	//"cl.falabella.product/src/config"
+	//"cl.challenge.product/src/config"
 	"context"
 	"encoding/json"
 	"time"

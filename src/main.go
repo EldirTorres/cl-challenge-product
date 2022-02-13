@@ -1,10 +1,10 @@
 package main
 
 import (
-	configRoute "cl.falabella.product/src/config"
+	configRoute "cl.challenge.product/src/config"
 	"log"
 	"net/http"
-	//"cl.falabella.product/src/main/go/util"
+	//"cl.challenge.product/src/main/go/util"
 )
 
 func main() {

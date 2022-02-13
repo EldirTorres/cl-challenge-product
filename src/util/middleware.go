@@ -1,7 +1,7 @@
 package util
 
 import (
-	"cl.falabella.product/src/service/redis"
+	"cl.challenge.product/src/service/redis"
 	"net/http"
 )
 

@@ -1,7 +1,7 @@
 package service
 
 import (
-	"cl.falabella.product/src/model"
+	"cl.challenge.product/src/model"
 )
 
 type Service interface {

@@ -161,3 +161,6 @@ fabric.properties
 # Ignore redis binary dump (dump.rdb) files
 
 *.rdb
+
+# Dependency directories (remove the comment below to include it)
+vendor/

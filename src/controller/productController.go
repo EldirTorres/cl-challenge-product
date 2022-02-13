@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"cl.falabella.product/src/model"
-	configRedis "cl.falabella.product/src/service/redis"
+	"cl.challenge.product/src/model"
+	configRedis "cl.challenge.product/src/service/redis"
 	"encoding/json"
 	"fmt"
 	"net/http"

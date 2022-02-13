@@ -1,7 +1,7 @@
 package config
 
 import (
-	"cl.falabella.product/src/controller"
+	"cl.challenge.product/src/controller"
 	"net/http"
 
 	"github.com/gorilla/mux"

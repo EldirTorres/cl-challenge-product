@@ -1,4 +1,4 @@
-module cl.falabella.product
+module cl.challenge.product
 
 go 1.15
 
